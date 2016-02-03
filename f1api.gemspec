@@ -41,8 +41,8 @@ Gem::Specification.new do |s|
   s.summary = %q{Consume the Fellowship One API in your apps using ActiveResource}
 
   s.add_runtime_dependency('oauth', ">= 0.4.4")
-  s.add_runtime_dependency('activeresource')
+  # s.add_runtime_dependency('activeresource')
   s.add_development_dependency('mocha')
-  s.add_runtime_dependency('activeresource')
+  # s.add_runtime_dependency('activeresource')
 end
 
