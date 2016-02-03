@@ -1,4 +1,4 @@
-This is a fork of Fellowship One REST API Ruby Client Library
+Fellowship One REST API Ruby Client Library
 ===========================================
 
 Introduction
